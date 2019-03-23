@@ -2,12 +2,7 @@
 ## Directory
 
 root
-|
-|
-|Python_Problem
-|
-|
-|NLP_Problem
-|
-|
-|CV_Problem
+- Python_Problem
+- NLP_Problem
+- CV_Problem
+
