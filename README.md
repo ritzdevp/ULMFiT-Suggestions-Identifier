@@ -1,8 +1,5 @@
-# Solutions to MIDAS tasks 
-## Directory
+# ULMFiT Suggestions Identifier
 
 root
-- Python_Problem
-- NLP_Problem
-- CV_Problem
+- NLP
 
